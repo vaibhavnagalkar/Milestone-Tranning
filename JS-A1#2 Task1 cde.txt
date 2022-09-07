@@ -1,0 +1,12 @@
+d. What is a variable. What should be kept in mind while naming a variable?
+-> variables is used to store Data values, and we have to kept in mind while naming a variable that Variable names must start with either a letter, an underscore _, or the dollar sign $,Variable names cannot start with numbers.
+
+e.What is a constant. How is a constant different from a variable?
+->Once a constant is initialized, we cannot change its value. a constant is a type of variable whose value cannot be changed.
+
+f.What are primitive data types. Name all of them with examples?
+->Primitive data types are number, string, boolean, NULL.
+var a=250;  			// integer value
+var str1 = “This is a string”;  // This is a string
+typeof(true); 			// returns boolean
+The null in JavaScript is a data type that is represented by only one value, the ‘null’ itself. A null value means no value.
