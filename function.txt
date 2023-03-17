@@ -1,0 +1,42 @@
+JS-A1#6 task1 b
+----------------
+In programming, a function is a block of code that performs a specific task and can be called and reused throughout a program. Functions can take input parameters and return output values.
+
+Functions are used in JavaScript for several reasons:
+
+Code reusability: Functions allow you to write a block of code once and use it multiple times throughout your program, without having to rewrite the same code.
+
+Modularity: By breaking down a program into smaller, more manageable functions, you can make your code more organized and easier to read and maintain.
+
+Abstraction: Functions can be used to hide complex operations and details from other parts of the program, making it easier to work with and understand.
+
+Encapsulation: Functions can be used to group related code and data together, protecting it from outside interference and helping to prevent bugs and errors.
+
+Separation of concerns: Functions can be used to separate different concerns or tasks within a program, making it easier to understand and modify.
+
+In summary, functions are a fundamental part of JavaScript programming and are used to help make code more modular, reusable, and easier to manage.
+
+---------------------------------------------------------
+JS-A1#6 task1 c
+---------------
+When a function is called in JavaScript, the following steps are typically executed:
+
+The function is first defined or declared in the code, specifying its name, parameters (if any), and the block of code that it contains.
+
+When the function is called, the JavaScript interpreter creates a new execution context, which includes a new stack frame on top of the call stack. This stack frame contains the function's local variables, parameters, and a reference to the function's parent execution context.
+
+The interpreter then passes any arguments that were provided in the function call into the function, assigning them to the corresponding parameter variables.
+
+The code inside the function block is executed line by line, starting from the first statement. Any variables or functions declared inside the function are only accessible within the function's scope, and are not visible to code outside the function.
+
+If the function contains any return statements, the function will exit at that point and return the specified value (if any) to the calling code. The execution context for the function is then removed from the call stack, and execution continues with the calling code.
+
+If the function does not contain a return statement, it will execute until the end of the function block is reached, at which point the function will automatically return undefined. The execution context for the function is then removed from the call stack, and execution continues with the calling code.
+
+If the function calls another function, a new execution context is created for that function and added to the top of the call stack, and the process repeats.
+
+In summary, the flow of execution when a function is called involves creating a new execution context, passing in any arguments, executing the function block, and returning a value (if any) before removing the execution context from the call stack.
+
+
+
+

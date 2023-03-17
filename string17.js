@@ -1,4 +1,4 @@
-let str ='A';
+let str ='EDUFECT';
 let str1='',str2='';
 let newstr='';
 let len=str.length;

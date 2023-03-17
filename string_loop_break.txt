@@ -1,0 +1,10 @@
+In JavaScript, break is a keyword used within loops (such as for and while loops) and switch statements. Its purpose is to immediately exit the current loop or switch statement and continue with the code that follows.         
+When used within a loop, break can be useful in cases where you want to exit the loop early based on some condition, rather than continuing to iterate over all remaining items. 
+For example, consider the following code:
+
+for (let i = 0; i < 10; i++) {
+  console.log(i);
+  if (i === 5) {
+    break;
+  }
+}

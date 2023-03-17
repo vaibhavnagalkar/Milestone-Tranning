@@ -1,4 +1,4 @@
-let n=1;
+let n=9;
 let str='';
 for(i=1;i<=n;i++){
     if(i%2==1){

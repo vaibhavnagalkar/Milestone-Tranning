@@ -1,4 +1,3 @@
-for (let i=1;i<=8;i++){
-    let j=10;
-    console.log(i,i+j,i+j*j,i+j*j*j);    
+for (let i=1;i<=10;i++){
+    console.log(i,i*10,i*10*2);
 }
