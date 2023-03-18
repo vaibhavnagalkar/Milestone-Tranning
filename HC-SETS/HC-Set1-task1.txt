@@ -1,0 +1,36 @@
+basic Tags
+    •	<h1> it is heading tag
+    •	<p> paragraph tag
+    •	<b> bold tag
+    •	<i> italic tag
+    •	<br/> line break tag
+    •	<hr/> horizontol line tag
+    •	<big> big text tag
+    •	<small> small text tag
+    •	<sub> subscript tag
+    •	<sup> super script tag
+---------------------------------------------------
+For Comments  		
+    <!-- multiple line comments -->
+style and Colors
+    using style attribute to add style with tags.
+    <body style=”background-color:lightblue;”>
+Formatting tags
+    <header>
+        <nav> </nav> //navigation attributes
+    </header>
+    <main>
+        <article>
+            <section>
+                <aside> </aside>
+            </section>
+            <section>
+                <h1>   </h1>
+                <h2>   </h2>
+            </section>
+        </article>
+    </main>
+    <footer></footer>
+----------------------------------------------------
+Links
+    <a href="https://www.google.com";>Google</a>  

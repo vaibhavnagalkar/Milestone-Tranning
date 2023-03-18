@@ -5,7 +5,7 @@ let emp1={
     salary:'40000',
     raise:true
 }
-let emp={
+let emp2={
     name:'Mary',
     dept:'finance',
     designation:'trainee',
@@ -19,3 +19,4 @@ let emp3={
     salary:'21200',
     raise:false
 }
+console.log(emp1,emp2,emp3);

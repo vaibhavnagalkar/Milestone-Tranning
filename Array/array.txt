@@ -1,0 +1,12 @@
+Explain push, pop, shift, unshift, splice and concat.
+pop() removes the last element of an array
+
+push() adds an element to the end of an array
+
+shift() removes the first element
+
+unshift() adds an element to the beginning of the array
+
+splice() adds and/or removes array elements.
+
+concat() method is used to merge two or more arrays.

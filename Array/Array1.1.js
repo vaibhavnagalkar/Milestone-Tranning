@@ -6,4 +6,4 @@ for(i=0;i<len;i++){
         count++;
     }
 }
-console.log('Numbers of even',count)
+console.log('Number of evens is ',count)

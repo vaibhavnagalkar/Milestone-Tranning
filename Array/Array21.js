@@ -1,5 +1,5 @@
-const names=['Jack'];
-str='Jack';
+const names=['Jack','Bob','Ed','Steve'];
+str='Bob';
 len =  names.length;
 for(let i=0;i<len;i++){
     if(names[i]==str){
